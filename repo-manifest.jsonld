@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/zytedata/zyte-spider-templates/commit/579c60037add982cef4459aedd5f7e3c55e602bd",
       "git:hexsha": "579c60037add982cef4459aedd5f7e3c55e602bd",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T13:06:20.770821+00:00"
     },
     {
       "@id": "https://repolex.ai/r/zytedata/zyte-spider-templates/commit/ad0057148141c08b00cda6b7b43bda2fa717408a",
