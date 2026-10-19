@@ -1,0 +1,11 @@
+{
+  "org": "zytedata",
+  "repo": "zyte-spider-templates",
+  "versions": [
+    {
+      "commit": "579c60037add982cef4459aedd5f7e3c55e602bd",
+      "tag": "",
+      "parsed_at": "2026-10-19T13:06:20.771350+00:00"
+    }
+  ]
+}
